@@ -1,0 +1,18 @@
+How to play the dice game
+
+The goal of this game is to be the last player with points.
+Players start with 30 points, everyone rolls to see who goes first, highest number goes first.
+
+Players take turns rolling 6 dice with the goal of getting the highest possible roll.
+On each roll you have to keep at least one die but can keep as many dice as you have rolled.
+You have to roll at least 30 to keep your points.
+
+Every point below 30 that you roll gets deducted off of your score (E.G. if you roll a total of 23 you lose 7 points).
+
+If you roll 30 exactly you keep your points and it is the next player's turn.
+
+If you roll over 30, collect your dice and roll them again to take points away from the previous player with points.
+In this round of rolling you keep dice with faces equal to your points over 30 (E.G. if you rolled 35 you keep your 5's on this round of rolling).
+As long as you roll a new face of your number you can keep rolling your remaining dice.
+Once you cannot roll anymore you count up the amount of points that you scored and that gets deducted from the previous player's score.
+(E.G. if you rolled 35 and collected 5's and on your next round rolled 3 5's then no 5's deduct 15 points from the previous player).
